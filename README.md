@@ -13,9 +13,9 @@ Authors: [Roshini Rangarajan](https://github.com/roshinira123), [Alison Ordentli
 ### UML Class Diagram
 ![UML Diagram MelodyMatch](https://github.com/cs100/final-project-rrang020-abane029-dlian032-aorde001/blob/a2896f624472e50d9701dc8018ab6b28ff901fd2/Design%20Documents/Screenshot%202023-12-08%20at%2011.12.32%20AM.png)
 ### Navigation Diagram
-[Navigation Diagram MelodyMatch](https://github.com/cs100/final-project-rrang020-abane029-dlian032-aorde001/blob/master/Design%20Documents/NavigationDiagram_MelodyMatch.png)
+[Navigation Diagram MelodyMatch](https://github.com/cs100/final-project-rrang020-abane029-dlian032-aorde001/blob/master/Design%20Documents/NewNavigation.png)
 ### Screen Layouts
-[Screen Layout MelodyMatch](https://github.com/cs100/final-project-rrang020-abane029-dlian032-aorde001/blob/master/Design%20Documents/ScreenLayout_MelodyMatch.png)
+[Screen Layout MelodyMatch](https://github.com/cs100/final-project-rrang020-abane029-dlian032-aorde001/blob/master/Design%20Documents/NewScreenLayout.png)
 
 ## Phase III - SOLID Principles
 #### The Single Responsibility Principle: 
