@@ -11,7 +11,7 @@ Authors: [Roshini Rangarajan](https://github.com/roshinira123), [Alison Ordentli
  * What are the features that the project provides? The project will be able to provide a song based on various user input, such as mood, genre, or favorite song. The project then outputs a list of potential songs that could interest the user based on a recommendation algorithm. The list of songs is able to be sorted based on dates, alphabetical order, and other factors.
 ## User Interface Specification
 ### UML Class Diagram
-![UML Diagram MelodyMatch](https://github.com/cs100/final-project-rrang020-abane029-dlian032-aorde001/blob/master/Design%20Documents/UML_MelodyMatch.png)
+![UML Diagram MelodyMatch](https://github.com/cs100/final-project-rrang020-abane029-dlian032-aorde001/blob/a2896f624472e50d9701dc8018ab6b28ff901fd2/Design%20Documents/Screenshot%202023-12-08%20at%2011.12.32%20AM.png)
 ### Navigation Diagram
 [Navigation Diagram MelodyMatch](https://github.com/cs100/final-project-rrang020-abane029-dlian032-aorde001/blob/master/Design%20Documents/NavigationDiagram_MelodyMatch.png)
 ### Screen Layouts
